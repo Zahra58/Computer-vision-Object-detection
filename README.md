@@ -79,8 +79,6 @@ You can view the complete code and workflow here:
 This project is licensed under the [MIT License](LICENSE).
 
 
-![Zahra58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahra58&show_icons=true&hide_rank=true&theme=radical)
-
 
 
 

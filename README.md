@@ -1,4 +1,11 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zahra58/data-mining-project--wholesale-customer-clustering/blob/main/Final_assignment_2_data_mining.ipynb)
+
 #  Computer Vision – Object Detection
+
+<h4 align="center">
+  <em>End-to-computer vision • Object detection • Machine Learning • Visualization</em>
+</h4>
 
 ![Banner](images/CV-object-detection.png)
 
@@ -70,5 +77,10 @@ You can view the complete code and workflow here:
 
 ##  License
 This project is licensed under the [MIT License](LICENSE).
+
+
+![Zahra58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahra58&show_icons=true&hide_rank=true&theme=radical)
+
+
 
 

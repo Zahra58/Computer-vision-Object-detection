@@ -55,6 +55,11 @@ End-to-end object detection and tracking using YOLOv8 and an IoU tracker. Detect
 ✅ Lightweight IoU tracker ensures efficient tracking.
 
 ---
+##  Jupyter Notebook
+You can view the complete code and workflow here:  
+👉 [Open the Object Detection Notebook](./object_detection_clean.ipynb)
+
+---
 
 ##  Author
 **Zahra Etebari**  

@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zahra58/data-mining-project--wholesale-customer-clustering/blob/main/Final_assignment_2_data_mining.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Zahra58/Computer-vision-Object-detection/blob/main/object_detection_clean.ipynb)
 
 #  Computer Vision – Object Detection
 
